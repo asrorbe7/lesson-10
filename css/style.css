@@ -12,7 +12,7 @@ body {
 
 .container {
   margin: 15px auto;
-  padding: 0px 256px;
+  padding: 0px 128px;
 }
 nav {
   margin-top: 25px;
@@ -184,7 +184,7 @@ nav {
   font-size: 18px;
 }
 .brands {
-  margin-left: 64px;
+  margin-left: 32px;
   margin-bottom: 100px;
 }
 .container-n {
